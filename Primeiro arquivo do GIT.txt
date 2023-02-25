@@ -1,1 +1,2 @@
 Primeiro arquivo do GIT
+Minha segunda alteração
